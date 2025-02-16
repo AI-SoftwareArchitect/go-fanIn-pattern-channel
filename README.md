@@ -1,0 +1,1 @@
+# go-fanIn-pattern-channel
